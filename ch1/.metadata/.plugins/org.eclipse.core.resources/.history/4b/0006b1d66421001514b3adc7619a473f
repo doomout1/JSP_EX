@@ -1,0 +1,12 @@
+package servlet_Ex;
+
+import javax.servlet.http.*;
+import javax.servlet.*;
+import java.io.*;
+
+public class HundredServlet extends HttpServlet{
+	public void doGet(HttpServletRequest requset, HttpServletResponse response)
+		throws ServletException, IOException {
+		
+	}
+}
